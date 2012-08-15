@@ -69,7 +69,7 @@ mapping_table = {
         'status': 200,
     },
     'create_ticket': {
-        'path': '/tickets.json',
+        'path': '/api/v2/tickets.json',
         'method': 'POST',
         'status': 201,
     },
